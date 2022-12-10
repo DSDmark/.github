@@ -3,7 +3,7 @@
 - [ ] Documentation update
 - [ ] Bug fix
 - [ ] New feature
-- [ ] Other, please explain:
+- [x] Other, please explain:
 
 **What changes did you make? (Give an overview)**
 
