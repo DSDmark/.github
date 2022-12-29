@@ -1,0 +1,5 @@
+{
+  "source": "/old/repository/link",
+  "destination": "/new/repository/link",
+  "status": 302
+}
