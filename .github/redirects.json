@@ -1,5 +1,5 @@
 {
-  "source": "/old/repository/link",
-  "destination": "/new/repository/link",
+  "source": "https://dsdmark.github.io/ASgame/",
+  "destination": "../index.html",
   "status": 302
 }
